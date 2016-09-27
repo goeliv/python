@@ -1,1 +1,4 @@
 # python
+
+
+readme for training
